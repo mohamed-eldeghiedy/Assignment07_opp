@@ -24,6 +24,51 @@
             #region q2: 
 
 
+            //IAuthenticationService authService = new BasicAuthenticationService();
+
+            //string username = "alice";
+            //string password = "password123";
+            //string role = "Admin";
+
+            //if (authService.AuthenticateUser(username, password))
+            //{
+            //    Console.WriteLine("User authenticated.");
+
+            //    if (authService.AuthorizeUser(username, role))
+            //    {
+            //        Console.WriteLine("User authorized.");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("User not authorized.");
+            //    }
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Authentication failed.");
+            //}
+
+
+
             #endregion
+
+
+
+            #region q3:
+
+            //INotificationService emailService = new EmailNotificationService();
+            //INotificationService smsService = new SmsNotificationService();
+            //INotificationService pushService = new PushNotificationService();
+
+            //string recipient = "moeldeghiedy@gmail.com";
+            //string message = "Your order has been shipped.";
+
+            //emailService.SendNotification(recipient, message);
+            //smsService.SendNotification("+201017825816", message);
+            //pushService.SendNotification("DeviceToken123", message);
+
+
+            #endregion
+        }
     }
 }

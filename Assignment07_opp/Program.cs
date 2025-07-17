@@ -4,9 +4,28 @@
     {
         static void Main()
         {
+            // part 01
 
 
+                    //q1: b) To define a blueprint for a class
 
+                    //q2: a) private
+
+                    //q3: b) No
+
+                    //q4: b) Yes, interfaces can inherit from multiple interfaces
+
+                    //q5: d) implements
+
+                    //q6: a) Yes
+
+                    //q7: b) No, all members are implicitly public
+
+                    //q8: a) To hide the interface members from outside access
+
+                    //q9:  b) No, interfaces cannot have constructors
+
+                    //q10: c) By separating interface names with commas
 
 
             // part 02
